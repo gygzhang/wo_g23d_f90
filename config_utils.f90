@@ -1,3 +1,7 @@
+!	Name: Guiying Zhang
+!	Organization: School of Computer Science, Chengdu University of Information Technology
+!	Contact: gygzhang@foxmail.com
+
 module config_utils
     use variables
     implicit none
