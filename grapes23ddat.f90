@@ -1,4 +1,6 @@
-
+!	Name: Guiying Zhang
+!	Organization: School of Computer Science, Chengdu University of Information Technology
+!	Contact: gygzhang@foxmail.com
 
  !!!!!!!!
 !   export LD_LIBRARY_PATH=/gpfs/home/stu6/app/eccodes_install/lib:/gpfs/home/stu6/app/openjpeg_install/lib
