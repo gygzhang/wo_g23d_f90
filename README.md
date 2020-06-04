@@ -1,3 +1,8 @@
+# ABOUT AUTHOR
+	Name: Guiying Zhang
+	Organization: School of Computer Science, Chengdu University of Information Technology
+	Contact: gygzhang@foxmail.com
+
 # HOW TO USE
 	1. First compile the project 
 		> make
