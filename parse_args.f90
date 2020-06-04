@@ -1,4 +1,6 @@
-
+!	Name: Guiying Zhang
+!	Organization: School of Computer Science, Chengdu University of Information Technology
+!	Contact: gygzhang@foxmail.com
 module parse_args
     !implicit none
     !use params
